@@ -1,0 +1,3 @@
+protocol MusicPlayerInteractorInput: BaseInteractorInput {
+
+}
